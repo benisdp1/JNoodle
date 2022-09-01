@@ -7,7 +7,7 @@
     <img height="auto" width="auto" src="/src/img/insipired-by-ichiraku.svg"/>
 </p>
 
-- Live Site URL: [https://benisdp.github.io/](https://benisdp.github.io/)
+- Live Site URL: [https://jn-oodle.vercel.app/](Here)
 
 - Responsive Ichiraku Noodle Restaurant website Using React, styled-components and Framer Motion
 - Developed first with the Mobile First methodology, then for desktop.
